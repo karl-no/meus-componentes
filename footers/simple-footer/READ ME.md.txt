@@ -1,0 +1,1 @@
+Modelo de footer simples feito no JS Bin como aula no Code Berry.
